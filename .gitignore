@@ -1,0 +1,15 @@
+__pycache__/*
+checkpoints/
+deberta.py
+good_runs/*
+lucy.py
+lucy2.py
+models/*
+predictins_*
+predictions_*
+run2/
+script.sh
+slurm20-*
+test/*
+test_preds_21_02-101619.pkl
+rob.py
